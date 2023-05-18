@@ -74,7 +74,7 @@ echo $LIVE_CANISTER_KEY
 
 5. Transfer some tokens to the live canister:
 ```
-dfx canister --network ic call token transfer "($LIVE_CANISTER_KEY, 50_000_000)"
+dfx canister --network ic call token transferTo "($LIVE_CANISTER_KEY, 50_000_000)"
 ```
 
 6. Get live canister front-end id:
