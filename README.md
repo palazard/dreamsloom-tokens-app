@@ -1,3 +1,33 @@
+
+# WELCOME TO DREAMSLOOM TOKEN (DLOOM) DAPP!!
+
+Get your free DreamsLoom tokens here! And transfer to your friends...
+
+With your free DBLOOM Tokens you will be able to buy NFTs on the [OpenD NFT Marketplace](https://github.com/palazard/nft-marketplace-web3)!
+
+
+## Here the steps:
+1. Authentificate with Internet Identity
+2. Claim your free 10000 DLOOM Tokens from the Faucet
+3. Check your balance and send tokens to your friends
+
+Fork the project and test in on your local ICP!
+
+
+## Technologies
+### Frontend
+This project was bootstrapped with React.js.
+Routing with React Router (react-router-dom).
+
+### Backend
+Motoko for ICP
+Authentication with Internet Identity
+
+
+
+----------------------------------------------------------------
+# GUIDE
+
 # Check your Balance
 
 1. Find out your principal id:
