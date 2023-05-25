@@ -20,7 +20,7 @@ function Faucet() {
         </span>
         Faucet
       </h2>
-      <label>Get your free DreamsLoom tokens here! Claim 10,000 DLOOM coins to your account.</label>
+      <label>Get your free DreamsLoom tokens here! Claim 10,000 DLOOM coins to your account "2vxsx-fae".</label>
       <p className="trade-buttons">
         <button id="btn-payout" disabled={isDisabled} onClick={handleClick}>
           {buttonText}
